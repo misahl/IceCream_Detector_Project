@@ -47,9 +47,9 @@ python Ice_Cream_Predictor.py
 
 ## 📊 Screenshot
 
-![Ice Cream Prediction Screenshot 1](screenshot01.png)
+![Running model Image](screenshot01.png)
 
-![Ice Cream Prediction Screenshot 2](screenshot02.png)
+![Prediction Result](screenshot02.png)
 
 
 
