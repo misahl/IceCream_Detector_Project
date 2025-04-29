@@ -45,11 +45,13 @@ python Ice_Cream_Predictor.py
 
 ---+++---
 
-## 📊 Screenshot
+## 📸 Screenshots
 
-![Running model Image](screenshot01.png)
+### Ice Cream Predictor Running:
+![Screenshot 1](screenshot01.png)
 
-![Prediction Result](screenshot02.png)
+### Prediction Output:
+![Screenshot 2](screenshot02.png)
 
 
 
