@@ -1,6 +1,6 @@
 # 🍦 Ice Cream Detector (AI/ML Project)
 
-This is a beginner-friendly machine learning project that predicts whether a person will want ice cream based on the temperature.
+This is a machine learning project that predicts whether a person will want ice cream based on the temperature.
 
 ---+++---
 
